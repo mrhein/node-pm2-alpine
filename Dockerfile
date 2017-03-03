@@ -1,4 +1,4 @@
-FROM node:7.4.0-alpine
+FROM node:alpine
 MAINTAINER Mathias Rhein "mathias@rhein.io"
 
 # Install pm2
