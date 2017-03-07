@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:argon-alpine
 MAINTAINER Mathias Rhein "mathias@rhein.io"
 
 # Install pm2
